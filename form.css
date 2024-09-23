@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(145, 145, 243);
+}
+.h1{
+background-color: tan;
+padding: 0;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+color: rgb(3, 141, 196);
+}
+div.allfieldset{
+    /* Personal Information */
+    #fieldP1{
+        background-color: rgb(79, 253, 253);
+        border: 10px solid rgb(79, 253, 253);
+        font-weight: bold;
+    }
+    #fieldCP1{
+        background-color: rgb(12, 212, 212);border: 10px solid rgb(12, 212, 212);
+    }
+    /* Address */
+    #fieldP2{
+        margin-top: 20px;
+        background-color: rgb(79, 253, 253);
+        border: 10px solid rgb(79, 253, 253);
+        font-weight: bold;
+        
+    }
+    /* Preferences */
+    #fieldP3{
+        margin-top: 20px;
+        background-color: rgb(79, 253, 253);
+        border: 10px solid rgb(79, 253, 253);
+        font-weight: bold;
+    }
+    /* Feedback */
+    #fieldP4{
+        margin-top: 20px;
+        background-color: rgb(79, 253, 253);
+        border: 10px solid rgb(79, 253, 253);
+        font-weight: bold;
+
+    }
+    #textarea{
+        background-color: rgb(245, 178, 178);
+        color: rgb(105, 10, 10);
+        padding: 10px;
+    }
+   
+}
+/* submit */
+.btn1{
+    background-color: rgb(194, 252, 87);
+    height: 30px;  width: 70px;
+    font-weight: bold; font-size:15px;
+   
+}
+.btn1:hover{
+    background-color: green;
+    color: white;
+}
+.btn2{
+    background-color: rgb(194, 252, 87);
+    height: 30px;  width: 70px;
+    font-weight: bold; font-size:15px;
+   
+}
+.btn2:hover{
+    background-color: green;
+    color: white;
+}
